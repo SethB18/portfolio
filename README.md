@@ -1,2 +1,3 @@
 
-<img src="assets/images/SamplePage.png">
+<img src="src/assets/images/SamplePage.png" alt="Preview" width="600">
+
