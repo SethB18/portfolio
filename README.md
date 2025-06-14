@@ -1,3 +1,3 @@
 
-<img src="src/assets/images/SamplePage.png" alt="Preview" width="600">
+<img src="src/assets/images/SamplePage.png" alt="Preview" width="800">
 
